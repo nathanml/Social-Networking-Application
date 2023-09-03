@@ -6,10 +6,9 @@ with one another, post statuses, and message their friends. There were 3 parts t
  all other users connected to Server
 3. Adding friendship/multicasting: Allow users to connect with other users as friends and share messages exclusively 
  with friends
-
 TestThread.java implements a test use of the Server which is logged in example.pdf.
 
-## Compilation Instructions
+### Compilation Instructions
 
 To run the project, navigate to the directory of the implementation you would like to use and run the following
 commands:
@@ -26,7 +25,7 @@ To add subsequent users (for non-basic implementation), run
 java User {hostname} {port}
 ```
 
-## What I learned
+### What I learned
 1. Socket programming
 2. Multithreading
 3. Multicasting
